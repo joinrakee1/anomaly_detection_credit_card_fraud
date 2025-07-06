@@ -10,6 +10,7 @@ This project was completed as part of a **machine learning course assignment** u
 - `anomaly_detection_credit_card_fraud.ipynb`: Jupyter notebook containing exploratory data analysis, data preprocessing, model building for Isolation Forest, One-Class SVM, and Autoencoder, evaluation, and performance comparison.
 - `anomaly_detection_credit_card_fraud.pdf`: PDF version of the full notebook run including EDA, model training, evaluation, and final results — ideal for quick review without setting up the environment.
 - `model_predictions.csv`: Contains transaction IDs, predicted fraud labels (1 = fraud, 0 = genuine), and anomaly scores from Isolation Forest, One-Class SVM and Autoencoder models.
+- `anomaly_detection_credit_card_fraud.html`: Exported Jupyter notebook containing the full analysis, model implementation, and evaluation results for unsupervised credit card fraud detection.
 
 ## Models
 
